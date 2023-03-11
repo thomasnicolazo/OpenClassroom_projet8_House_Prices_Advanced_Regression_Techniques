@@ -8,7 +8,7 @@
 
 Dans le cas d'achats d'une maison, les caractéristiques de celle-ci qui peuvent déteminer son prix peuvent être inattendues.
 C'est pour cela que nous allons chercher à déterminer les prix de maison à l'aide de 79 variables explicatives. Ces variables décrivent
-approximativement tous les aspects de la zone résidentielle de la ville Ames. Les données ont été compilées par  Dean De Cock sous le nom de [Ames Housing dataset](http://www.amstat.org/publications/jse/v19n3/decock.pdf). Ce projet [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) est une compétition proposé sur le site [Kaggle](https://www.kaggle.com/). Cette compétition est ouvert à tous les membres de la plateforme et n'est pas limité  dans le temps.
+approximativement tous les aspects de la zone résidentielle de la ville Ames. Les données ont été compilées par  Dean De Cock sous le nom de [Ames Housing dataset](http://www.amstat.org/publications/jse/v19n3/decock.pdf). Ce projet [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) est une compétition proposée sur le site [Kaggle](https://www.kaggle.com/). Cette compétition est ouverte à tous les membres de la plateforme et n'est pas limitée  dans le temps.
 
 ## Les données:
 
